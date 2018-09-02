@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Hoteis</string>
+    <string name="acao_pesquisar">Pesquisar</string>
+    <string name="acao_novo">Novo</string>
+    <string name="acao_info">Info</string>
+    <string name="hint_buscar">Procurar por hotel</string>
+    <string name="str_titulo">Dominando o Android</string>
+    <string name="str_msg">Desenvolvido por Everton Ribeiro</string>
+    <string name="str_site">Site</string>
+    <string name="bt_ok">OK</string>
+    <string name="str_nome">Nome:</string>
+    <string name="str_endereco">Endereço</string>
+    <string name="str_classificacao">Classificação</string>
+    <string name="acao_delete">Deletar</string>
+    <plurals name="numero_selecionado">
+        <item quantity="one">1 Selecionado</item>
+        <item quantity="other">%d selecionados</item>
+    </plurals>
+    <string name="mensagem_excluir">%d itens excluídos</string>
+    <string name="acao_desfazer">Desfazer</string>
+</resources>
